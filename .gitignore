@@ -1,0 +1,8 @@
+/build/
+/vendor/
+
+*.bundle
+*.lock
+
+project.yml
+rakefile.rb
